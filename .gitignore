@@ -1,0 +1,4 @@
+# !  fix bug when making an operation, delete one number and try to add an operator
+# ! fix floor point after the result
+
+kefunctions.js
